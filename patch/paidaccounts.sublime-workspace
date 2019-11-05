@@ -1,0 +1,334 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tenure",
+				"tenure_bucket"
+			],
+			[
+				"aver",
+				"average_salary_by_tenure_bucket"
+			],
+			[
+				"average",
+				"average_salary_by_tenure"
+			],
+			[
+				"salary",
+				"salary_by_tenure_bucket"
+			],
+			[
+				"tenu",
+				"tenure_bucket"
+			],
+			[
+				"sala",
+				"salary_by_tenure_bucket"
+			],
+			[
+				"salar",
+				"salaries_and_tenures"
+			],
+			[
+				"av",
+				"average_salary_by_tenure"
+			],
+			[
+				"for",
+				"forprint"
+			],
+			[
+				"stop",
+				"stopwords_list"
+			],
+			[
+				"word",
+				"words_and_counts"
+			],
+			[
+				"user_",
+				"user_id"
+			],
+			[
+				"user_ids",
+				"user_ids_by_interest"
+			],
+			[
+				"user",
+				"user_id"
+			],
+			[
+				"usr",
+				"user_ids_by_interests"
+			],
+			[
+				"in",
+				"intelligence"
+			],
+			[
+				"data",
+				"data_scientists_who_like"
+			],
+			[
+				"interest",
+				"interests"
+			],
+			[
+				"num",
+				"num_friends"
+			],
+			[
+				"pp",
+				"pprint"
+			],
+			[
+				"pers",
+				"person_dict"
+			],
+			[
+				"json",
+				"jsonObj"
+			],
+			[
+				"mre_mac_",
+				"mre_mac_j5_bul"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/user/Documents/GitHub/data-science-from-scratch/patch"
+	],
+	"file_history":
+	[
+		"/C/Users/user/Documents/GitHub/data-science-from-scratch/patch/scratch.py",
+		"/C/Users/user/Documents/GitHub/data-science-from-scratch/patch/argskwargs.py",
+		"/C/Users/user/Documents/GitHub/data-science-from-scratch/patch/paidaccounts.sublime-project",
+		"/C/Users/user/Documents/GitHub/data-science-from-scratch/patch/paidaccounts.py",
+		"/C/Users/user/Documents/GitHub/data-science-from-scratch/patch/salariesandexperience.py",
+		"/C/Users/user/Documents/GitHub/data-science-from-scratch/patch/jsontest.py",
+		"/C/Users/user/Documents/GitHub/data-science-from-scratch/patch/regex.py",
+		"/C/Users/user/Documents/GitHub/data-science-from-scratch/patch/randomTest.py",
+		"/C/Users/user/Documents/GitHub/data-science-from-scratch/patch/substantiveinterest.py",
+		"/C/Users/user/Documents/GitHub/data-science-from-scratch/patch/introduction.py",
+		"/C/Users/user/Documents/GitHub/data-science-from-scratch/patch/generatorsitererators.py",
+		"/C/Users/user/Documents/GitHub/WK_mediregs/fdl_relpub_enforce/output1 - Copy.txt",
+		"/C/Users/user/Documents/GitHub/data-science-from-scratch/patch/random.py",
+		"/C/Users/user/Documents/SPI/macj1j3/j1_j3.pl",
+		"/C/Users/user/Documents/GitHub/YAPA-2/LICENSE.TXT",
+		"/C/Users/user/Documents/Calculus/backprop.py",
+		"/C/Users/user/Documents/GitHub/YAPA-2/README.md",
+		"/C/Users/user/Documents/SPI/mre_foley_lawwatch/1st run.txt",
+		"/C/Users/user/Documents/SPI/mre_foley_lawwatch/2nd run.txt",
+		"/C/Users/user/Documents/GitHub/Introduction-to-Data-Science/Assignment4keys.py",
+		"/C/Users/user/Documents/SPI/macj1j3/j3_bul_2018wrap.htm",
+		"/C/Users/user/Documents/SPI/macj1j3/mre_mac_j1_bul_advisory_2018.htm",
+		"/C/Users/user/Documents/SPI/macj1j3/mre_zen_test.lst",
+		"/C/Users/user/Documents/SPI/macj1j3/mre_kriezl_test.lst",
+		"/C/Users/user/Documents/SPI/Jget_Test/jget_test.pl",
+		"/C/Users/user/Documents/SPI/Activity9/mrca.pl",
+		"/C/Users/user/Documents/SPI/FDA/mre_prl_mpa.pl",
+		"/C/Users/user/Documents/SPI/fedspec/frpi_crawler_current.args",
+		"/C/Users/user/Documents/SPI/macj5/mac_j5_bul.pl",
+		"/C/Users/user/Documents/SPI/MRCAS-3155/sratch.pl",
+		"/C/Users/user/Documents/SPI/macj5/mrcadownload.pl",
+		"/C/Users/user/Documents/SPI/macj5/macj5v2.pl",
+		"/C/Users/user/Documents/SPI/fedspec/jcmd_frpi_htmlproc.json",
+		"/C/Users/user/Documents/SPI/fedspec/jcmd_frpi_pubimg.json",
+		"/C/Users/user/Documents/SPI/fedspec/jcmd_frpi_specf.json",
+		"/C/Users/user/Documents/SPI/fedspec/jcmd_frpi_daily.json",
+		"/C/Strawberry/perl/site/lib/MediRegs/Archimedes.pm",
+		"/C/Strawberry/perl/site/lib/MediRegs/Archimedes/File.pm",
+		"/C/Users/user/Documents/SPI/fedspec/bin/jcommand.pl",
+		"/C/Users/user/Documents/SPI/Activity9/scratch.pl",
+		"/C/Users/user/Documents/SPI/Activity9/scratch1.pl",
+		"/C/Users/user/Documents/SPI/Activity9/mre_patch/mre_mac_j5_bul_2017_wrap.html",
+		"/C/Users/user/Documents/SPI/ExampleFiles/example3.pl",
+		"/C/Users/user/Documents/SPI/ExampleFiles/example2.pl",
+		"/C/Users/user/Documents/SPI/ExampleFiles/example1.pl",
+		"/C/Users/user/Documents/SPI/ExampleFiles/example4.pl",
+		"/C/Users/user/Documents/SPI/ExampleFiles/example 5.pl",
+		"/C/Users/user/Documents/SPI/ExampleFiles/example 6.pl",
+		"/C/Users/user/Documents/SPI/ExampleFiles/example 7.pl",
+		"/C/Users/user/Documents/SPI/ExampleFiles/example 8.pl",
+		"/C/Users/user/Documents/SPI/ExampleFiles/Example 9_UPDATED.pl",
+		"/C/Users/user/Documents/SPI/Activity9/mre_patch/mre_patch.lst",
+		"/C/Users/user/Documents/SPI/Activity9/mre_patch/mre_mac_j5_bul_2019_wrap.html",
+		"/C/Users/user/Documents/SPI/Activity9/mre_patch/mre_mac_j5_bul_2018_wrap.html",
+		"/C/Users/user/Documents/SPI/Activity9/mre_mac_j5_bul_2019_wrap.html",
+		"/C/Users/user/Documents/SPI/Activity9/mre_mac_j5_bul_2018_wrap.html",
+		"/C/Users/user/Documents/SPI/Activity9/mre_mac_j5_bul_2017_wrap.html",
+		"/C/Users/user/Documents/SPI/Activity9/mre_patch/binaries/Awinter2019",
+		"/C/Users/user/Documents/SPI/Activity9/mre_patch/2019.html",
+		"/C/Users/user/Documents/SPI/Activity9/mre_patch/2018.html",
+		"/C/Users/user/Documents/SPI/Activity9/mre_patch/2017.html",
+		"/C/Users/user/Documents/Patch/mre_zen_test/test.html",
+		"/C/Users/user/Documents/Programming  Tools/January 2019 Notes/PythonCrashCourse/PythonGoogleSearch/lucky.py"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"--url",
+			"SMTP",
+			"Email",
+			"\"Command\"",
+			"\"CMS-Manual\" : "
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"push(@ { $args }, \"--url",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 253.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "paidaccounts.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 203.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
