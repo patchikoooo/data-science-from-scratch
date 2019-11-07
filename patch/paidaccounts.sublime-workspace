@@ -99,6 +99,40 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "/C/Users/user/Documents/GitHub/WK_mediregs/fdl_relpub_enforce/fdl_relpub_enforce.patch.pl",
+			"settings":
+			{
+				"buffer_size": 56406,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/user/Documents/GitHub/WK_mediregs/fdl_relpub_enforce/Statistics.py",
+			"settings":
+			{
+				"buffer_size": 140,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/user/Documents/GitHub/WK_mediregs/fdl_relpub_enforce/origcompareCSV.pl",
+			"settings":
+			{
+				"buffer_size": 5532,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/user/Documents/GitHub/WK_mediregs/fdl_relpub_enforce/compareCSV.pl",
+			"settings":
+			{
+				"buffer_size": 5855,
+				"line_ending": "Windows"
+			}
+		}
 	],
 	"build_system": "Packages/Python/Python.sublime-build",
 	"build_system_choices":
@@ -136,6 +170,7 @@
 	],
 	"file_history":
 	[
+		"/C/Users/user/Documents/GitHub/WK_mediregs/fdl_relpub_enforce/transformed.txt",
 		"/C/Users/user/Documents/GitHub/data-science-from-scratch/patch/scratch.py",
 		"/C/Users/user/Documents/GitHub/data-science-from-scratch/patch/argskwargs.py",
 		"/C/Users/user/Documents/GitHub/data-science-from-scratch/patch/paidaccounts.sublime-project",
@@ -240,8 +275,123 @@
 	"groups":
 	[
 		{
+			"selected": 3,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/user/Documents/GitHub/WK_mediregs/fdl_relpub_enforce/fdl_relpub_enforce.patch.pl",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 56406,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								43646,
+								30110
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Perl/Perl.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 13392.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/user/Documents/GitHub/WK_mediregs/fdl_relpub_enforce/Statistics.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 140,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								140,
+								120
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/user/Documents/GitHub/WK_mediregs/fdl_relpub_enforce/origcompareCSV.pl",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5532,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								862,
+								862
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Perl/Perl.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 540.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Users/user/Documents/GitHub/WK_mediregs/fdl_relpub_enforce/compareCSV.pl",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5855,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								176,
+								176
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Perl/Perl.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 648.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
