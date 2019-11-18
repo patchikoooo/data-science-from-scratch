@@ -20,6 +20,9 @@ if __name__ == "__main__":
 
 	print()
 
+	# you can skip the header row, with an initial call to reader.next()
+	#	or get each row as a dict(with the headers as keys) by using
+	#	csv.DictReader
 	with open('colon_delimited_stock_prices.txt', 'r', encoding='utf8',newline='') as f:
 		reader = csv.DictReader(f, delimiter = ':')
 		print("writing out comma_delimited_stock_prices.txt")
@@ -38,3 +41,8 @@ if __name__ == "__main__":
 		writer = csv.writer(f, delimiter=',')
 		for stock, price in today_prices.items():
 			writer.writerow([stock, price])
+
+
+	# csv.writer will do the right thing if your fields themselves
+	#	have commas in them. Your own hand-rolled writer probably
+	#	won't.
